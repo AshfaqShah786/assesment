@@ -43,6 +43,6 @@ Step 2: Apply Kubernetes Manifests
 Step 3: Access the Deployed Application
 
         minikube service nextjs-service
-This will return a URL like:
-        http://192.168.49.2:30001
+
+
 
